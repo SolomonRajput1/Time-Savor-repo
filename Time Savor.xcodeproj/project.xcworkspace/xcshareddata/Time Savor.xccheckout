@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBF8393D-80D3-4217-8432-F017ACAA94F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Time Savor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B77E52E3-71CB-4B22-A267-12A2F16B1B4B</key>
+		<string>https://github.com/SolomonRajput1/Time-Savor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Time Savor.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B77E52E3-71CB-4B22-A267-12A2F16B1B4B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SolomonRajput1/Time-Savor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B77E52E3-71CB-4B22-A267-12A2F16B1B4B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B77E52E3-71CB-4B22-A267-12A2F16B1B4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Time-Savor</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,960 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		57D1AAEA199696DC0014D9D0 /* 20-minute seafood pasta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AACB199696DB0014D9D0 /* 20-minute seafood pasta.jpg */; };
+		57D1AAEB199696DC0014D9D0 /* Barbeque Glazed Salmon with Green Beans and Corn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AACC199696DB0014D9D0 /* Barbeque Glazed Salmon with Green Beans and Corn.jpg */; };
+		57D1AAEC199696DC0014D9D0 /* Chicken Cutlets with Tomato Saute.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AACD199696DB0014D9D0 /* Chicken Cutlets with Tomato Saute.jpg */; };
+		57D1AAED199696DC0014D9D0 /* Chicken-Peanut Chow Mein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AACE199696DB0014D9D0 /* Chicken-Peanut Chow Mein.jpg */; };
+		57D1AAEE199696DC0014D9D0 /* Chunky Bean and Chicken Chili.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AACF199696DB0014D9D0 /* Chunky Bean and Chicken Chili.jpg */; };
+		57D1AAEF199696DC0014D9D0 /* Citrus Salmon with Broccoli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD0199696DB0014D9D0 /* Citrus Salmon with Broccoli.jpg */; };
+		57D1AAF0199696DC0014D9D0 /* Cod With Beans, Corn, and Pesto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD1199696DB0014D9D0 /* Cod With Beans, Corn, and Pesto.jpg */; };
+		57D1AAF1199696DC0014D9D0 /* Creamy Fettuccine With Corn and Arugula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD2199696DB0014D9D0 /* Creamy Fettuccine With Corn and Arugula.jpg */; };
+		57D1AAF2199696DC0014D9D0 /* Curry in a hurry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD3199696DB0014D9D0 /* Curry in a hurry.jpg */; };
+		57D1AAF3199696DC0014D9D0 /* Easy Salmon, Black Bean, and Corn Tostadas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD4199696DB0014D9D0 /* Easy Salmon, Black Bean, and Corn Tostadas.jpg */; };
+		57D1AAF4199696DC0014D9D0 /* Fettuccine with Mushrooms and Hazelnuts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD5199696DB0014D9D0 /* Fettuccine with Mushrooms and Hazelnuts.jpg */; };
+		57D1AAF5199696DC0014D9D0 /* Fish Tostadas and Chili Lime Cream.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD6199696DB0014D9D0 /* Fish Tostadas and Chili Lime Cream.jpg */; };
+		57D1AAF6199696DC0014D9D0 /* Garlickly summer squash and fresh corn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD7199696DB0014D9D0 /* Garlickly summer squash and fresh corn.jpg */; };
+		57D1AAF7199696DC0014D9D0 /* Ginger Veggie Stir-Fry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD8199696DB0014D9D0 /* Ginger Veggie Stir-Fry.jpg */; };
+		57D1AAF8199696DC0014D9D0 /* Golden Gazpacho with Feta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAD9199696DB0014D9D0 /* Golden Gazpacho with Feta.jpg */; };
+		57D1AAF9199696DC0014D9D0 /* Japanese Chicken-Scallion Rice Bowl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AADA199696DB0014D9D0 /* Japanese Chicken-Scallion Rice Bowl.jpg */; };
+		57D1AAFA199696DC0014D9D0 /* Marmalade Chicken.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AADB199696DB0014D9D0 /* Marmalade Chicken.jpg */; };
+		57D1AAFB199696DC0014D9D0 /* Microwave butternut squash risotto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AADC199696DB0014D9D0 /* Microwave butternut squash risotto.jpg */; };
+		57D1AAFC199696DC0014D9D0 /* Minestrone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AADD199696DB0014D9D0 /* Minestrone.jpg */; };
+		57D1AAFD199696DC0014D9D0 /* Pan-Searched Chicken with Tomato-Olive Relish.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AADE199696DB0014D9D0 /* Pan-Searched Chicken with Tomato-Olive Relish.jpg */; };
+		57D1AAFE199696DC0014D9D0 /* Quick Chicken Noodle Soup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AADF199696DB0014D9D0 /* Quick Chicken Noodle Soup.jpg */; };
+		57D1AAFF199696DC0014D9D0 /* Ravioli With Sauteed Zucchini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE0199696DB0014D9D0 /* Ravioli With Sauteed Zucchini.jpg */; };
+		57D1AB00199696DC0014D9D0 /* Shrimp and Tomato Pasta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE1199696DB0014D9D0 /* Shrimp and Tomato Pasta.jpg */; };
+		57D1AB01199696DC0014D9D0 /* Simple, fresh quesadillas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE2199696DB0014D9D0 /* Simple, fresh quesadillas.jpg */; };
+		57D1AB02199696DC0014D9D0 /* Smoky Mushroom Stroganoff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE3199696DB0014D9D0 /* Smoky Mushroom Stroganoff.jpg */; };
+		57D1AB03199696DC0014D9D0 /* Spaghetti With Herbs, Chilies, and Eggs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE4199696DB0014D9D0 /* Spaghetti With Herbs, Chilies, and Eggs.jpg */; };
+		57D1AB04199696DC0014D9D0 /* Strawberry and Feta Salad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE5199696DB0014D9D0 /* Strawberry and Feta Salad.jpg */; };
+		57D1AB05199696DC0014D9D0 /* Thai Red Chicken Curry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE6199696DC0014D9D0 /* Thai Red Chicken Curry.jpg */; };
+		57D1AB06199696DC0014D9D0 /* Turkey Salad With Tomato and Avocado.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE7199696DC0014D9D0 /* Turkey Salad With Tomato and Avocado.jpg */; };
+		57D1AB07199696DC0014D9D0 /* Tuscan Pasta With Tomato-Basil Cream.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE8199696DC0014D9D0 /* Tuscan Pasta With Tomato-Basil Cream.jpg */; };
+		57D1AB08199696DC0014D9D0 /* Veggie Fried Rice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AAE9199696DC0014D9D0 /* Veggie Fried Rice.jpg */; };
+		57D1AB0B1996B2560014D9D0 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D1AB0A1996B2560014D9D0 /* CoreText.framework */; };
+		57D1AB0D1996B25E0014D9D0 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D1AB0C1996B25E0014D9D0 /* QuartzCore.framework */; };
+		57D1AB0F1996B2660014D9D0 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D1AB0E1996B2660014D9D0 /* Security.framework */; };
+		57D1AB111996B2700014D9D0 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D1AB101996B2700014D9D0 /* SystemConfiguration.framework */; };
+		57D1AB171996B2AE0014D9D0 /* HockeySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D1AB131996B2AE0014D9D0 /* HockeySDK.framework */; };
+		57D1AB181996B2AE0014D9D0 /* HockeySDK.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AB151996B2AE0014D9D0 /* HockeySDK.xcconfig */; };
+		57D1AB191996B2AE0014D9D0 /* HockeySDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 57D1AB161996B2AE0014D9D0 /* HockeySDKResources.bundle */; };
+		57D3994C198E870300763B0D /* RecipeJSONConverter.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 57D3994B198E870300763B0D /* RecipeJSONConverter.sqlite */; };
+		57D3998B198E880A00763B0D /* 20-Minute Shrimp and Couscous With Yogurt-Hummus Sauce.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3994E198E880A00763B0D /* 20-Minute Shrimp and Couscous With Yogurt-Hummus Sauce.jpeg */; };
+		57D3998C198E880A00763B0D /* Arugula and Pesto Pizzas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3994F198E880A00763B0D /* Arugula and Pesto Pizzas.jpg */; };
+		57D3998D198E880A00763B0D /* Baked Ziti and Summer Veggies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39950198E880A00763B0D /* Baked Ziti and Summer Veggies.jpg */; };
+		57D3998E198E880A00763B0D /* Blackened Tilapia Baja Tacos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39951198E880A00763B0D /* Blackened Tilapia Baja Tacos.jpg */; };
+		57D3998F198E880A00763B0D /* Butternut Squash and Pesto Rotini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39952198E880A00763B0D /* Butternut Squash and Pesto Rotini.jpg */; };
+		57D39990198E880A00763B0D /* Caesar Salad with Chicken.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39953198E880A00763B0D /* Caesar Salad with Chicken.jpg */; };
+		57D39991198E880A00763B0D /* Chicken and Asparagus Crepes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39954198E880A00763B0D /* Chicken and Asparagus Crepes.jpeg */; };
+		57D39992198E880A00763B0D /* Chicken and Vegetable Noodles with Peanut Sauce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39955198E880A00763B0D /* Chicken and Vegetable Noodles with Peanut Sauce.jpg */; };
+		57D39993198E880A00763B0D /* Chicken Caprese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39956198E880A00763B0D /* Chicken Caprese.jpg */; };
+		57D39994198E880A00763B0D /* Creamy Chicken and Spinach Pasta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39957198E880A00763B0D /* Creamy Chicken and Spinach Pasta.jpg */; };
+		57D39995198E880A00763B0D /* Curry Chickpea Stew with Brown Rice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39958198E880A00763B0D /* Curry Chickpea Stew with Brown Rice.jpg */; };
+		57D39996198E880A00763B0D /* Delicious Black Bean Burritos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39959198E880A00763B0D /* Delicious Black Bean Burritos.jpg */; };
+		57D39997198E880A00763B0D /* Easy Chicken Stir Fry.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3995A198E880A00763B0D /* Easy Chicken Stir Fry.jpeg */; };
+		57D39998198E880A00763B0D /* Fettuccine with Creamy Red Pepper-Feta Sauce.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3995B198E880A00763B0D /* Fettuccine with Creamy Red Pepper-Feta Sauce.jpeg */; };
+		57D39999198E880A00763B0D /* Greek Chicken Pitas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3995C198E880A00763B0D /* Greek Chicken Pitas.jpg */; };
+		57D3999A198E880A00763B0D /* Lemon Salmon with Lima Beans.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3995D198E880A00763B0D /* Lemon Salmon with Lima Beans.jpeg */; };
+		57D3999B198E880A00763B0D /* Light Chicken Enchiladas.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3995E198E880A00763B0D /* Light Chicken Enchiladas.jpeg */; };
+		57D3999C198E880A00763B0D /* Ratatouille.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3995F198E880A00763B0D /* Ratatouille.jpg */; };
+		57D3999D198E880A00763B0D /* Red Curry Lentils.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39960198E880A00763B0D /* Red Curry Lentils.jpg */; };
+		57D3999E198E880A00763B0D /* Roasted Zucchini Flatbread with Hummus, Arugula, Goat Cheese, and Almonds.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39961198E880A00763B0D /* Roasted Zucchini Flatbread with Hummus, Arugula, Goat Cheese, and Almonds.jpeg */; };
+		57D3999F198E880A00763B0D /* Southwest Chili.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39962198E880A00763B0D /* Southwest Chili.jpg */; };
+		57D399A0198E880A00763B0D /* Speedy Spicy Cod.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39963198E880A00763B0D /* Speedy Spicy Cod.jpg */; };
+		57D399A1198E880A00763B0D /* Spicy Chicken Casserole.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39964198E880A00763B0D /* Spicy Chicken Casserole.jpg */; };
+		57D399A2198E880A00763B0D /* Spinach and Onion Quesadillas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39965198E880A00763B0D /* Spinach and Onion Quesadillas.jpg */; };
+		57D399A3198E880A00763B0D /* Spinach and Quinoa Salad with Toasted Cashews and Dried Cranberries.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39966198E880A00763B0D /* Spinach and Quinoa Salad with Toasted Cashews and Dried Cranberries.jpg */; };
+		57D399A4198E880A00763B0D /* Thai Chicken and Coconut Soup with Noodles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39967198E880A00763B0D /* Thai Chicken and Coconut Soup with Noodles.jpg */; };
+		57D399A5198E880A00763B0D /* Tofu and Veggies in Peanut Sauce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39968198E880A00763B0D /* Tofu and Veggies in Peanut Sauce.jpg */; };
+		57D399A6198E880A00763B0D /* Vegetable Gumbo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D39969198E880A00763B0D /* Vegetable Gumbo.jpeg */; };
+		57D399A7198E880A00763B0D /* Veggie Pizza.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3996A198E880A00763B0D /* Veggie Pizza.jpeg */; };
+		57D399A8198E880A00763B0D /* Whole-wheat Penne with Chicken and Asparagus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57D3996B198E880A00763B0D /* Whole-wheat Penne with Chicken and Asparagus.jpg */; };
+		57D39A091991BE1A00763B0D /* DynamicHeightTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 57D39A081991BE1A00763B0D /* DynamicHeightTableViewCell.m */; };
+		BA20C5661975D3D4006CA809 /* GroceryListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA20C5651975D3D4006CA809 /* GroceryListViewController.m */; };
+		BA20C5691975D608006CA809 /* GroceryList.m in Sources */ = {isa = PBXBuildFile; fileRef = BA20C5681975D608006CA809 /* GroceryList.m */; };
+		BA48405C19841B87001F9439 /* Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = BA48405B19841B87001F9439 /* Recipe.m */; };
+		BA48405F19841B88001F9439 /* Ingredient.m in Sources */ = {isa = PBXBuildFile; fileRef = BA48405E19841B88001F9439 /* Ingredient.m */; };
+		BA48406219846984001F9439 /* InstructionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BA48406119846984001F9439 /* InstructionTableViewCell.m */; };
+		BA48406619849BB5001F9439 /* IngredientsSorting.txt in Resources */ = {isa = PBXBuildFile; fileRef = BA48406519849BB5001F9439 /* IngredientsSorting.txt */; };
+		BA559940196C8AB900C33516 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA55993F196C8AB900C33516 /* Foundation.framework */; };
+		BA559942196C8AB900C33516 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA559941196C8AB900C33516 /* CoreGraphics.framework */; };
+		BA559944196C8AB900C33516 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA559943196C8AB900C33516 /* UIKit.framework */; };
+		BA55994A196C8AB900C33516 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BA559948196C8AB900C33516 /* InfoPlist.strings */; };
+		BA55994C196C8AB900C33516 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BA55994B196C8AB900C33516 /* main.m */; };
+		BA559950196C8AB900C33516 /* TimeSavorAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BA55994F196C8AB900C33516 /* TimeSavorAppDelegate.m */; };
+		BA559953196C8AB900C33516 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA559951196C8AB900C33516 /* Main.storyboard */; };
+		BA559956196C8ABA00C33516 /* TimeSavorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA559955196C8ABA00C33516 /* TimeSavorViewController.m */; };
+		BA559958196C8ABA00C33516 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA559957196C8ABA00C33516 /* Images.xcassets */; };
+		BA55995F196C8ABA00C33516 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA55995E196C8ABA00C33516 /* XCTest.framework */; };
+		BA559960196C8ABA00C33516 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA55993F196C8AB900C33516 /* Foundation.framework */; };
+		BA559961196C8ABA00C33516 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA559943196C8AB900C33516 /* UIKit.framework */; };
+		BA559969196C8ABA00C33516 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BA559967196C8ABA00C33516 /* InfoPlist.strings */; };
+		BA55996B196C8ABA00C33516 /* Time_SavorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BA55996A196C8ABA00C33516 /* Time_SavorTests.m */; };
+		BA559976196C8B5200C33516 /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BA559974196C8B5200C33516 /* DataModel.xcdatamodeld */; };
+		BA8DCAB4197903E100FF8ADF /* Plan.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCAB3197903E100FF8ADF /* Plan.m */; };
+		BA8DCABD1979ABBA00FF8ADF /* PlanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCABC1979ABBA00FF8ADF /* PlanViewController.m */; };
+		BA8DCAC01979AD9500FF8ADF /* PlanTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCABF1979AD9500FF8ADF /* PlanTableViewCell.m */; };
+		BA8DCAC3197A1CFD00FF8ADF /* RecipeBoxViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCAC2197A1CFD00FF8ADF /* RecipeBoxViewController.m */; };
+		BA8DCAC9197AC68200FF8ADF /* RecipeBoxTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCAC8197AC68200FF8ADF /* RecipeBoxTableViewCell.m */; };
+		BA8DCACF197AC7B000FF8ADF /* PendingRecipeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCACE197AC7B000FF8ADF /* PendingRecipeTableViewCell.m */; };
+		BA8DCAD2197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCAD1197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.m */; };
+		BA8DCAD5197AED7B00FF8ADF /* SwitchWithFavoriteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCAD4197AED7B00FF8ADF /* SwitchWithFavoriteViewController.m */; };
+		BA8DCAD8197AF3AE00FF8ADF /* PreferencesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8DCAD7197AF3AE00FF8ADF /* PreferencesViewController.m */; };
+		BA8DCADA197EF40E00FF8ADF /* MasterRecipes.json in Resources */ = {isa = PBXBuildFile; fileRef = BA8DCAD9197EF40E00FF8ADF /* MasterRecipes.json */; };
+		BAB7DC201974474B002ED0A4 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAB7DC1F1974474B002ED0A4 /* CoreData.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BA559962196C8ABA00C33516 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BA559934196C8AB900C33516 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BA55993B196C8AB900C33516;
+			remoteInfo = "Time Savor";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		57D1AACB199696DB0014D9D0 /* 20-minute seafood pasta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20-minute seafood pasta.jpg"; sourceTree = "<group>"; };
+		57D1AACC199696DB0014D9D0 /* Barbeque Glazed Salmon with Green Beans and Corn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Barbeque Glazed Salmon with Green Beans and Corn.jpg"; sourceTree = "<group>"; };
+		57D1AACD199696DB0014D9D0 /* Chicken Cutlets with Tomato Saute.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chicken Cutlets with Tomato Saute.jpg"; sourceTree = "<group>"; };
+		57D1AACE199696DB0014D9D0 /* Chicken-Peanut Chow Mein.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chicken-Peanut Chow Mein.jpg"; sourceTree = "<group>"; };
+		57D1AACF199696DB0014D9D0 /* Chunky Bean and Chicken Chili.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chunky Bean and Chicken Chili.jpg"; sourceTree = "<group>"; };
+		57D1AAD0199696DB0014D9D0 /* Citrus Salmon with Broccoli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Citrus Salmon with Broccoli.jpg"; sourceTree = "<group>"; };
+		57D1AAD1199696DB0014D9D0 /* Cod With Beans, Corn, and Pesto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cod With Beans, Corn, and Pesto.jpg"; sourceTree = "<group>"; };
+		57D1AAD2199696DB0014D9D0 /* Creamy Fettuccine With Corn and Arugula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Creamy Fettuccine With Corn and Arugula.jpg"; sourceTree = "<group>"; };
+		57D1AAD3199696DB0014D9D0 /* Curry in a hurry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Curry in a hurry.jpg"; sourceTree = "<group>"; };
+		57D1AAD4199696DB0014D9D0 /* Easy Salmon, Black Bean, and Corn Tostadas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Salmon, Black Bean, and Corn Tostadas.jpg"; sourceTree = "<group>"; };
+		57D1AAD5199696DB0014D9D0 /* Fettuccine with Mushrooms and Hazelnuts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fettuccine with Mushrooms and Hazelnuts.jpg"; sourceTree = "<group>"; };
+		57D1AAD6199696DB0014D9D0 /* Fish Tostadas and Chili Lime Cream.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fish Tostadas and Chili Lime Cream.jpg"; sourceTree = "<group>"; };
+		57D1AAD7199696DB0014D9D0 /* Garlickly summer squash and fresh corn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Garlickly summer squash and fresh corn.jpg"; sourceTree = "<group>"; };
+		57D1AAD8199696DB0014D9D0 /* Ginger Veggie Stir-Fry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ginger Veggie Stir-Fry.jpg"; sourceTree = "<group>"; };
+		57D1AAD9199696DB0014D9D0 /* Golden Gazpacho with Feta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Golden Gazpacho with Feta.jpg"; sourceTree = "<group>"; };
+		57D1AADA199696DB0014D9D0 /* Japanese Chicken-Scallion Rice Bowl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Japanese Chicken-Scallion Rice Bowl.jpg"; sourceTree = "<group>"; };
+		57D1AADB199696DB0014D9D0 /* Marmalade Chicken.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Marmalade Chicken.jpg"; sourceTree = "<group>"; };
+		57D1AADC199696DB0014D9D0 /* Microwave butternut squash risotto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Microwave butternut squash risotto.jpg"; sourceTree = "<group>"; };
+		57D1AADD199696DB0014D9D0 /* Minestrone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Minestrone.jpg; sourceTree = "<group>"; };
+		57D1AADE199696DB0014D9D0 /* Pan-Searched Chicken with Tomato-Olive Relish.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pan-Searched Chicken with Tomato-Olive Relish.jpg"; sourceTree = "<group>"; };
+		57D1AADF199696DB0014D9D0 /* Quick Chicken Noodle Soup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Quick Chicken Noodle Soup.jpg"; sourceTree = "<group>"; };
+		57D1AAE0199696DB0014D9D0 /* Ravioli With Sauteed Zucchini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ravioli With Sauteed Zucchini.jpg"; sourceTree = "<group>"; };
+		57D1AAE1199696DB0014D9D0 /* Shrimp and Tomato Pasta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Shrimp and Tomato Pasta.jpg"; sourceTree = "<group>"; };
+		57D1AAE2199696DB0014D9D0 /* Simple, fresh quesadillas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Simple, fresh quesadillas.jpg"; sourceTree = "<group>"; };
+		57D1AAE3199696DB0014D9D0 /* Smoky Mushroom Stroganoff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Smoky Mushroom Stroganoff.jpg"; sourceTree = "<group>"; };
+		57D1AAE4199696DB0014D9D0 /* Spaghetti With Herbs, Chilies, and Eggs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spaghetti With Herbs, Chilies, and Eggs.jpg"; sourceTree = "<group>"; };
+		57D1AAE5199696DB0014D9D0 /* Strawberry and Feta Salad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Strawberry and Feta Salad.jpg"; sourceTree = "<group>"; };
+		57D1AAE6199696DC0014D9D0 /* Thai Red Chicken Curry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Thai Red Chicken Curry.jpg"; sourceTree = "<group>"; };
+		57D1AAE7199696DC0014D9D0 /* Turkey Salad With Tomato and Avocado.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Turkey Salad With Tomato and Avocado.jpg"; sourceTree = "<group>"; };
+		57D1AAE8199696DC0014D9D0 /* Tuscan Pasta With Tomato-Basil Cream.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tuscan Pasta With Tomato-Basil Cream.jpg"; sourceTree = "<group>"; };
+		57D1AAE9199696DC0014D9D0 /* Veggie Fried Rice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Veggie Fried Rice.jpg"; sourceTree = "<group>"; };
+		57D1AB0A1996B2560014D9D0 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		57D1AB0C1996B25E0014D9D0 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		57D1AB0E1996B2660014D9D0 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		57D1AB101996B2700014D9D0 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		57D1AB131996B2AE0014D9D0 /* HockeySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HockeySDK.framework; sourceTree = "<group>"; };
+		57D1AB151996B2AE0014D9D0 /* HockeySDK.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = HockeySDK.xcconfig; sourceTree = "<group>"; };
+		57D1AB161996B2AE0014D9D0 /* HockeySDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = HockeySDKResources.bundle; sourceTree = "<group>"; };
+		57D1AB1A1996B6BD0014D9D0 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		57D1AB1C1996B6C70014D9D0 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
+		57D1AB1E1996B6E50014D9D0 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		57D1AB201996B6ED0014D9D0 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		57D1AB221996B6F70014D9D0 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		57D1AB241996B7010014D9D0 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		57D1AB261996B7090014D9D0 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		57D3994B198E870300763B0D /* RecipeJSONConverter.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = RecipeJSONConverter.sqlite; path = "../../../../Library/Developer/Xcode/DerivedData/RecipeJSONConverter-gszlvgqfnbrvijgfxskrrfpyprwq/Build/Products/Debug/RecipeJSONConverter.sqlite"; sourceTree = "<group>"; };
+		57D3994E198E880A00763B0D /* 20-Minute Shrimp and Couscous With Yogurt-Hummus Sauce.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20-Minute Shrimp and Couscous With Yogurt-Hummus Sauce.jpeg"; sourceTree = "<group>"; };
+		57D3994F198E880A00763B0D /* Arugula and Pesto Pizzas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Arugula and Pesto Pizzas.jpg"; sourceTree = "<group>"; };
+		57D39950198E880A00763B0D /* Baked Ziti and Summer Veggies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Baked Ziti and Summer Veggies.jpg"; sourceTree = "<group>"; };
+		57D39951198E880A00763B0D /* Blackened Tilapia Baja Tacos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blackened Tilapia Baja Tacos.jpg"; sourceTree = "<group>"; };
+		57D39952198E880A00763B0D /* Butternut Squash and Pesto Rotini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Butternut Squash and Pesto Rotini.jpg"; sourceTree = "<group>"; };
+		57D39953198E880A00763B0D /* Caesar Salad with Chicken.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Caesar Salad with Chicken.jpg"; sourceTree = "<group>"; };
+		57D39954198E880A00763B0D /* Chicken and Asparagus Crepes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chicken and Asparagus Crepes.jpeg"; sourceTree = "<group>"; };
+		57D39955198E880A00763B0D /* Chicken and Vegetable Noodles with Peanut Sauce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chicken and Vegetable Noodles with Peanut Sauce.jpg"; sourceTree = "<group>"; };
+		57D39956198E880A00763B0D /* Chicken Caprese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chicken Caprese.jpg"; sourceTree = "<group>"; };
+		57D39957198E880A00763B0D /* Creamy Chicken and Spinach Pasta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Creamy Chicken and Spinach Pasta.jpg"; sourceTree = "<group>"; };
+		57D39958198E880A00763B0D /* Curry Chickpea Stew with Brown Rice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Curry Chickpea Stew with Brown Rice.jpg"; sourceTree = "<group>"; };
+		57D39959198E880A00763B0D /* Delicious Black Bean Burritos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Delicious Black Bean Burritos.jpg"; sourceTree = "<group>"; };
+		57D3995A198E880A00763B0D /* Easy Chicken Stir Fry.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Chicken Stir Fry.jpeg"; sourceTree = "<group>"; };
+		57D3995B198E880A00763B0D /* Fettuccine with Creamy Red Pepper-Feta Sauce.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fettuccine with Creamy Red Pepper-Feta Sauce.jpeg"; sourceTree = "<group>"; };
+		57D3995C198E880A00763B0D /* Greek Chicken Pitas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Greek Chicken Pitas.jpg"; sourceTree = "<group>"; };
+		57D3995D198E880A00763B0D /* Lemon Salmon with Lima Beans.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lemon Salmon with Lima Beans.jpeg"; sourceTree = "<group>"; };
+		57D3995E198E880A00763B0D /* Light Chicken Enchiladas.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Light Chicken Enchiladas.jpeg"; sourceTree = "<group>"; };
+		57D3995F198E880A00763B0D /* Ratatouille.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ratatouille.jpg; sourceTree = "<group>"; };
+		57D39960198E880A00763B0D /* Red Curry Lentils.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Red Curry Lentils.jpg"; sourceTree = "<group>"; };
+		57D39961198E880A00763B0D /* Roasted Zucchini Flatbread with Hummus, Arugula, Goat Cheese, and Almonds.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Roasted Zucchini Flatbread with Hummus, Arugula, Goat Cheese, and Almonds.jpeg"; sourceTree = "<group>"; };
+		57D39962198E880A00763B0D /* Southwest Chili.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Southwest Chili.jpg"; sourceTree = "<group>"; };
+		57D39963198E880A00763B0D /* Speedy Spicy Cod.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Speedy Spicy Cod.jpg"; sourceTree = "<group>"; };
+		57D39964198E880A00763B0D /* Spicy Chicken Casserole.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spicy Chicken Casserole.jpg"; sourceTree = "<group>"; };
+		57D39965198E880A00763B0D /* Spinach and Onion Quesadillas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spinach and Onion Quesadillas.jpg"; sourceTree = "<group>"; };
+		57D39966198E880A00763B0D /* Spinach and Quinoa Salad with Toasted Cashews and Dried Cranberries.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spinach and Quinoa Salad with Toasted Cashews and Dried Cranberries.jpg"; sourceTree = "<group>"; };
+		57D39967198E880A00763B0D /* Thai Chicken and Coconut Soup with Noodles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Thai Chicken and Coconut Soup with Noodles.jpg"; sourceTree = "<group>"; };
+		57D39968198E880A00763B0D /* Tofu and Veggies in Peanut Sauce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tofu and Veggies in Peanut Sauce.jpg"; sourceTree = "<group>"; };
+		57D39969198E880A00763B0D /* Vegetable Gumbo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Vegetable Gumbo.jpeg"; sourceTree = "<group>"; };
+		57D3996A198E880A00763B0D /* Veggie Pizza.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Veggie Pizza.jpeg"; sourceTree = "<group>"; };
+		57D3996B198E880A00763B0D /* Whole-wheat Penne with Chicken and Asparagus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Whole-wheat Penne with Chicken and Asparagus.jpg"; sourceTree = "<group>"; };
+		57D39A071991BE1A00763B0D /* DynamicHeightTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DynamicHeightTableViewCell.h; sourceTree = "<group>"; };
+		57D39A081991BE1A00763B0D /* DynamicHeightTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DynamicHeightTableViewCell.m; sourceTree = "<group>"; };
+		BA20C5641975D3D4006CA809 /* GroceryListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroceryListViewController.h; sourceTree = "<group>"; };
+		BA20C5651975D3D4006CA809 /* GroceryListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroceryListViewController.m; sourceTree = "<group>"; };
+		BA20C5671975D608006CA809 /* GroceryList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroceryList.h; sourceTree = "<group>"; };
+		BA20C5681975D608006CA809 /* GroceryList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroceryList.m; sourceTree = "<group>"; };
+		BA48405A19841B87001F9439 /* Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recipe.h; sourceTree = "<group>"; };
+		BA48405B19841B87001F9439 /* Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recipe.m; sourceTree = "<group>"; };
+		BA48405D19841B88001F9439 /* Ingredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ingredient.h; sourceTree = "<group>"; };
+		BA48405E19841B88001F9439 /* Ingredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ingredient.m; sourceTree = "<group>"; };
+		BA48406019846984001F9439 /* InstructionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstructionTableViewCell.h; sourceTree = "<group>"; };
+		BA48406119846984001F9439 /* InstructionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InstructionTableViewCell.m; sourceTree = "<group>"; };
+		BA48406519849BB5001F9439 /* IngredientsSorting.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IngredientsSorting.txt; sourceTree = "<group>"; };
+		BA55993C196C8AB900C33516 /* Time Savor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Time Savor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA55993F196C8AB900C33516 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		BA559941196C8AB900C33516 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		BA559943196C8AB900C33516 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		BA559947196C8AB900C33516 /* Time Savor-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Time Savor-Info.plist"; sourceTree = "<group>"; };
+		BA559949196C8AB900C33516 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BA55994B196C8AB900C33516 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BA55994D196C8AB900C33516 /* Time Savor-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Time Savor-Prefix.pch"; sourceTree = "<group>"; };
+		BA55994E196C8AB900C33516 /* TimeSavorAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TimeSavorAppDelegate.h; sourceTree = "<group>"; };
+		BA55994F196C8AB900C33516 /* TimeSavorAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TimeSavorAppDelegate.m; sourceTree = "<group>"; };
+		BA559952196C8AB900C33516 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BA559954196C8AB900C33516 /* TimeSavorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TimeSavorViewController.h; sourceTree = "<group>"; };
+		BA559955196C8ABA00C33516 /* TimeSavorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TimeSavorViewController.m; sourceTree = "<group>"; };
+		BA559957196C8ABA00C33516 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		BA55995D196C8ABA00C33516 /* Time SavorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Time SavorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA55995E196C8ABA00C33516 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		BA559966196C8ABA00C33516 /* Time SavorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Time SavorTests-Info.plist"; sourceTree = "<group>"; };
+		BA559968196C8ABA00C33516 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BA55996A196C8ABA00C33516 /* Time_SavorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Time_SavorTests.m; sourceTree = "<group>"; };
+		BA559975196C8B5200C33516 /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
+		BA8DCAB2197903E100FF8ADF /* Plan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Plan.h; sourceTree = "<group>"; };
+		BA8DCAB3197903E100FF8ADF /* Plan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Plan.m; sourceTree = "<group>"; };
+		BA8DCABB1979ABBA00FF8ADF /* PlanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlanViewController.h; sourceTree = "<group>"; };
+		BA8DCABC1979ABBA00FF8ADF /* PlanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlanViewController.m; sourceTree = "<group>"; };
+		BA8DCABE1979AD9500FF8ADF /* PlanTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlanTableViewCell.h; sourceTree = "<group>"; };
+		BA8DCABF1979AD9500FF8ADF /* PlanTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlanTableViewCell.m; sourceTree = "<group>"; };
+		BA8DCAC1197A1CFC00FF8ADF /* RecipeBoxViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeBoxViewController.h; sourceTree = "<group>"; };
+		BA8DCAC2197A1CFD00FF8ADF /* RecipeBoxViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeBoxViewController.m; sourceTree = "<group>"; };
+		BA8DCAC7197AC68200FF8ADF /* RecipeBoxTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeBoxTableViewCell.h; sourceTree = "<group>"; };
+		BA8DCAC8197AC68200FF8ADF /* RecipeBoxTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeBoxTableViewCell.m; sourceTree = "<group>"; };
+		BA8DCACD197AC7B000FF8ADF /* PendingRecipeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PendingRecipeTableViewCell.h; sourceTree = "<group>"; };
+		BA8DCACE197AC7B000FF8ADF /* PendingRecipeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PendingRecipeTableViewCell.m; sourceTree = "<group>"; };
+		BA8DCAD0197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConfirmedRecipesTableViewCell.h; sourceTree = "<group>"; };
+		BA8DCAD1197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConfirmedRecipesTableViewCell.m; sourceTree = "<group>"; };
+		BA8DCAD3197AED7B00FF8ADF /* SwitchWithFavoriteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwitchWithFavoriteViewController.h; sourceTree = "<group>"; };
+		BA8DCAD4197AED7B00FF8ADF /* SwitchWithFavoriteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwitchWithFavoriteViewController.m; sourceTree = "<group>"; };
+		BA8DCAD6197AF3AE00FF8ADF /* PreferencesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreferencesViewController.h; sourceTree = "<group>"; };
+		BA8DCAD7197AF3AE00FF8ADF /* PreferencesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferencesViewController.m; sourceTree = "<group>"; };
+		BA8DCAD9197EF40E00FF8ADF /* MasterRecipes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MasterRecipes.json; sourceTree = "<group>"; };
+		BAB7DC1F1974474B002ED0A4 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BA559939196C8AB900C33516 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57D1AB111996B2700014D9D0 /* SystemConfiguration.framework in Frameworks */,
+				57D1AB0F1996B2660014D9D0 /* Security.framework in Frameworks */,
+				57D1AB0D1996B25E0014D9D0 /* QuartzCore.framework in Frameworks */,
+				57D1AB0B1996B2560014D9D0 /* CoreText.framework in Frameworks */,
+				BAB7DC201974474B002ED0A4 /* CoreData.framework in Frameworks */,
+				57D1AB171996B2AE0014D9D0 /* HockeySDK.framework in Frameworks */,
+				BA559942196C8AB900C33516 /* CoreGraphics.framework in Frameworks */,
+				BA559944196C8AB900C33516 /* UIKit.framework in Frameworks */,
+				BA559940196C8AB900C33516 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BA55995A196C8ABA00C33516 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA55995F196C8ABA00C33516 /* XCTest.framework in Frameworks */,
+				BA559961196C8ABA00C33516 /* UIKit.framework in Frameworks */,
+				BA559960196C8ABA00C33516 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		57D1AACA199696DB0014D9D0 /* Recipe Pictures round 2 */ = {
+			isa = PBXGroup;
+			children = (
+				57D1AACB199696DB0014D9D0 /* 20-minute seafood pasta.jpg */,
+				57D1AACC199696DB0014D9D0 /* Barbeque Glazed Salmon with Green Beans and Corn.jpg */,
+				57D1AACD199696DB0014D9D0 /* Chicken Cutlets with Tomato Saute.jpg */,
+				57D1AACE199696DB0014D9D0 /* Chicken-Peanut Chow Mein.jpg */,
+				57D1AACF199696DB0014D9D0 /* Chunky Bean and Chicken Chili.jpg */,
+				57D1AAD0199696DB0014D9D0 /* Citrus Salmon with Broccoli.jpg */,
+				57D1AAD1199696DB0014D9D0 /* Cod With Beans, Corn, and Pesto.jpg */,
+				57D1AAD2199696DB0014D9D0 /* Creamy Fettuccine With Corn and Arugula.jpg */,
+				57D1AAD3199696DB0014D9D0 /* Curry in a hurry.jpg */,
+				57D1AAD4199696DB0014D9D0 /* Easy Salmon, Black Bean, and Corn Tostadas.jpg */,
+				57D1AAD5199696DB0014D9D0 /* Fettuccine with Mushrooms and Hazelnuts.jpg */,
+				57D1AAD6199696DB0014D9D0 /* Fish Tostadas and Chili Lime Cream.jpg */,
+				57D1AAD7199696DB0014D9D0 /* Garlickly summer squash and fresh corn.jpg */,
+				57D1AAD8199696DB0014D9D0 /* Ginger Veggie Stir-Fry.jpg */,
+				57D1AAD9199696DB0014D9D0 /* Golden Gazpacho with Feta.jpg */,
+				57D1AADA199696DB0014D9D0 /* Japanese Chicken-Scallion Rice Bowl.jpg */,
+				57D1AADB199696DB0014D9D0 /* Marmalade Chicken.jpg */,
+				57D1AADC199696DB0014D9D0 /* Microwave butternut squash risotto.jpg */,
+				57D1AADD199696DB0014D9D0 /* Minestrone.jpg */,
+				57D1AADE199696DB0014D9D0 /* Pan-Searched Chicken with Tomato-Olive Relish.jpg */,
+				57D1AADF199696DB0014D9D0 /* Quick Chicken Noodle Soup.jpg */,
+				57D1AAE0199696DB0014D9D0 /* Ravioli With Sauteed Zucchini.jpg */,
+				57D1AAE1199696DB0014D9D0 /* Shrimp and Tomato Pasta.jpg */,
+				57D1AAE2199696DB0014D9D0 /* Simple, fresh quesadillas.jpg */,
+				57D1AAE3199696DB0014D9D0 /* Smoky Mushroom Stroganoff.jpg */,
+				57D1AAE4199696DB0014D9D0 /* Spaghetti With Herbs, Chilies, and Eggs.jpg */,
+				57D1AAE5199696DB0014D9D0 /* Strawberry and Feta Salad.jpg */,
+				57D1AAE6199696DC0014D9D0 /* Thai Red Chicken Curry.jpg */,
+				57D1AAE7199696DC0014D9D0 /* Turkey Salad With Tomato and Avocado.jpg */,
+				57D1AAE8199696DC0014D9D0 /* Tuscan Pasta With Tomato-Basil Cream.jpg */,
+				57D1AAE9199696DC0014D9D0 /* Veggie Fried Rice.jpg */,
+			);
+			path = "Recipe Pictures round 2";
+			sourceTree = SOURCE_ROOT;
+		};
+		57D1AB121996B2AE0014D9D0 /* HockeySDK.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				57D1AB131996B2AE0014D9D0 /* HockeySDK.framework */,
+				57D1AB141996B2AE0014D9D0 /* Resources */,
+			);
+			name = HockeySDK.embeddedframework;
+			path = "HockeySDK-iOS/HockeySDK.embeddedframework";
+			sourceTree = "<group>";
+		};
+		57D1AB141996B2AE0014D9D0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				57D1AB151996B2AE0014D9D0 /* HockeySDK.xcconfig */,
+				57D1AB161996B2AE0014D9D0 /* HockeySDKResources.bundle */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		57D3994D198E880A00763B0D /* Recipe pictures round 1 */ = {
+			isa = PBXGroup;
+			children = (
+				57D3994E198E880A00763B0D /* 20-Minute Shrimp and Couscous With Yogurt-Hummus Sauce.jpeg */,
+				57D3994F198E880A00763B0D /* Arugula and Pesto Pizzas.jpg */,
+				57D39950198E880A00763B0D /* Baked Ziti and Summer Veggies.jpg */,
+				57D39951198E880A00763B0D /* Blackened Tilapia Baja Tacos.jpg */,
+				57D39952198E880A00763B0D /* Butternut Squash and Pesto Rotini.jpg */,
+				57D39953198E880A00763B0D /* Caesar Salad with Chicken.jpg */,
+				57D39954198E880A00763B0D /* Chicken and Asparagus Crepes.jpeg */,
+				57D39955198E880A00763B0D /* Chicken and Vegetable Noodles with Peanut Sauce.jpg */,
+				57D39956198E880A00763B0D /* Chicken Caprese.jpg */,
+				57D39957198E880A00763B0D /* Creamy Chicken and Spinach Pasta.jpg */,
+				57D39958198E880A00763B0D /* Curry Chickpea Stew with Brown Rice.jpg */,
+				57D39959198E880A00763B0D /* Delicious Black Bean Burritos.jpg */,
+				57D3995A198E880A00763B0D /* Easy Chicken Stir Fry.jpeg */,
+				57D3995B198E880A00763B0D /* Fettuccine with Creamy Red Pepper-Feta Sauce.jpeg */,
+				57D3995C198E880A00763B0D /* Greek Chicken Pitas.jpg */,
+				57D3995D198E880A00763B0D /* Lemon Salmon with Lima Beans.jpeg */,
+				57D3995E198E880A00763B0D /* Light Chicken Enchiladas.jpeg */,
+				57D3995F198E880A00763B0D /* Ratatouille.jpg */,
+				57D39960198E880A00763B0D /* Red Curry Lentils.jpg */,
+				57D39961198E880A00763B0D /* Roasted Zucchini Flatbread with Hummus, Arugula, Goat Cheese, and Almonds.jpeg */,
+				57D39962198E880A00763B0D /* Southwest Chili.jpg */,
+				57D39963198E880A00763B0D /* Speedy Spicy Cod.jpg */,
+				57D39964198E880A00763B0D /* Spicy Chicken Casserole.jpg */,
+				57D39965198E880A00763B0D /* Spinach and Onion Quesadillas.jpg */,
+				57D39966198E880A00763B0D /* Spinach and Quinoa Salad with Toasted Cashews and Dried Cranberries.jpg */,
+				57D39967198E880A00763B0D /* Thai Chicken and Coconut Soup with Noodles.jpg */,
+				57D39968198E880A00763B0D /* Tofu and Veggies in Peanut Sauce.jpg */,
+				57D39969198E880A00763B0D /* Vegetable Gumbo.jpeg */,
+				57D3996A198E880A00763B0D /* Veggie Pizza.jpeg */,
+				57D3996B198E880A00763B0D /* Whole-wheat Penne with Chicken and Asparagus.jpg */,
+			);
+			path = "Recipe pictures round 1";
+			sourceTree = SOURCE_ROOT;
+		};
+		57D39A061991BC4500763B0D /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				57D39A071991BE1A00763B0D /* DynamicHeightTableViewCell.h */,
+				57D39A081991BE1A00763B0D /* DynamicHeightTableViewCell.m */,
+				BA48406019846984001F9439 /* InstructionTableViewCell.h */,
+				BA48406119846984001F9439 /* InstructionTableViewCell.m */,
+				BA8DCABE1979AD9500FF8ADF /* PlanTableViewCell.h */,
+				BA8DCABF1979AD9500FF8ADF /* PlanTableViewCell.m */,
+				BA8DCACD197AC7B000FF8ADF /* PendingRecipeTableViewCell.h */,
+				BA8DCACE197AC7B000FF8ADF /* PendingRecipeTableViewCell.m */,
+				BA8DCAD0197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.h */,
+				BA8DCAD1197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.m */,
+				BA8DCAC7197AC68200FF8ADF /* RecipeBoxTableViewCell.h */,
+				BA8DCAC8197AC68200FF8ADF /* RecipeBoxTableViewCell.m */,
+			);
+			name = TableViewCells;
+			sourceTree = "<group>";
+		};
+		BA559933196C8AB900C33516 = {
+			isa = PBXGroup;
+			children = (
+				BA8DCAD9197EF40E00FF8ADF /* MasterRecipes.json */,
+				BA559945196C8AB900C33516 /* Time Savor */,
+				BA559964196C8ABA00C33516 /* Time SavorTests */,
+				BA55993E196C8AB900C33516 /* Frameworks */,
+				BA55993D196C8AB900C33516 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BA55993D196C8AB900C33516 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BA55993C196C8AB900C33516 /* Time Savor.app */,
+				BA55995D196C8ABA00C33516 /* Time SavorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BA55993E196C8AB900C33516 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				57D1AB261996B7090014D9D0 /* CoreMotion.framework */,
+				57D1AB241996B7010014D9D0 /* OpenGLES.framework */,
+				57D1AB221996B6F70014D9D0 /* AudioToolbox.framework */,
+				57D1AB201996B6ED0014D9D0 /* CoreLocation.framework */,
+				57D1AB1E1996B6E50014D9D0 /* CoreTelephony.framework */,
+				57D1AB1C1996B6C70014D9D0 /* CoreImage.framework */,
+				57D1AB1A1996B6BD0014D9D0 /* AdSupport.framework */,
+				57D1AB101996B2700014D9D0 /* SystemConfiguration.framework */,
+				57D1AB0E1996B2660014D9D0 /* Security.framework */,
+				57D1AB0C1996B25E0014D9D0 /* QuartzCore.framework */,
+				57D1AB0A1996B2560014D9D0 /* CoreText.framework */,
+				BAB7DC1F1974474B002ED0A4 /* CoreData.framework */,
+				BA55993F196C8AB900C33516 /* Foundation.framework */,
+				BA559941196C8AB900C33516 /* CoreGraphics.framework */,
+				57D1AB121996B2AE0014D9D0 /* HockeySDK.embeddedframework */,
+				BA559943196C8AB900C33516 /* UIKit.framework */,
+				BA55995E196C8ABA00C33516 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BA559945196C8AB900C33516 /* Time Savor */ = {
+			isa = PBXGroup;
+			children = (
+				57D39A061991BC4500763B0D /* TableViewCells */,
+				BA559951196C8AB900C33516 /* Main.storyboard */,
+				BA8DCAD6197AF3AE00FF8ADF /* PreferencesViewController.h */,
+				BA8DCAD7197AF3AE00FF8ADF /* PreferencesViewController.m */,
+				BA8DCAD3197AED7B00FF8ADF /* SwitchWithFavoriteViewController.h */,
+				BA8DCAD4197AED7B00FF8ADF /* SwitchWithFavoriteViewController.m */,
+				BA8DCABB1979ABBA00FF8ADF /* PlanViewController.h */,
+				BA8DCABC1979ABBA00FF8ADF /* PlanViewController.m */,
+				BA20C5641975D3D4006CA809 /* GroceryListViewController.h */,
+				BA20C5651975D3D4006CA809 /* GroceryListViewController.m */,
+				BA559954196C8AB900C33516 /* TimeSavorViewController.h */,
+				BA559955196C8ABA00C33516 /* TimeSavorViewController.m */,
+				BA8DCAC1197A1CFC00FF8ADF /* RecipeBoxViewController.h */,
+				BA8DCAC2197A1CFD00FF8ADF /* RecipeBoxViewController.m */,
+				BA8DCAB2197903E100FF8ADF /* Plan.h */,
+				BA8DCAB3197903E100FF8ADF /* Plan.m */,
+				BA20C5671975D608006CA809 /* GroceryList.h */,
+				BA20C5681975D608006CA809 /* GroceryList.m */,
+				57D3994B198E870300763B0D /* RecipeJSONConverter.sqlite */,
+				BA48405A19841B87001F9439 /* Recipe.h */,
+				BA48405D19841B88001F9439 /* Ingredient.h */,
+				BA48405E19841B88001F9439 /* Ingredient.m */,
+				BA48405B19841B87001F9439 /* Recipe.m */,
+				BA559974196C8B5200C33516 /* DataModel.xcdatamodeld */,
+				BA559957196C8ABA00C33516 /* Images.xcassets */,
+				BA559946196C8AB900C33516 /* Supporting Files */,
+			);
+			path = "Time Savor";
+			sourceTree = "<group>";
+		};
+		BA559946196C8AB900C33516 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				57D1AACA199696DB0014D9D0 /* Recipe Pictures round 2 */,
+				57D3994D198E880A00763B0D /* Recipe pictures round 1 */,
+				BA48406519849BB5001F9439 /* IngredientsSorting.txt */,
+				BA55994E196C8AB900C33516 /* TimeSavorAppDelegate.h */,
+				BA55994F196C8AB900C33516 /* TimeSavorAppDelegate.m */,
+				BA559947196C8AB900C33516 /* Time Savor-Info.plist */,
+				BA559948196C8AB900C33516 /* InfoPlist.strings */,
+				BA55994B196C8AB900C33516 /* main.m */,
+				BA55994D196C8AB900C33516 /* Time Savor-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BA559964196C8ABA00C33516 /* Time SavorTests */ = {
+			isa = PBXGroup;
+			children = (
+				BA55996A196C8ABA00C33516 /* Time_SavorTests.m */,
+				BA559965196C8ABA00C33516 /* Supporting Files */,
+			);
+			path = "Time SavorTests";
+			sourceTree = "<group>";
+		};
+		BA559965196C8ABA00C33516 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BA559966196C8ABA00C33516 /* Time SavorTests-Info.plist */,
+				BA559967196C8ABA00C33516 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BA55993B196C8AB900C33516 /* Time Savor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BA55996E196C8ABA00C33516 /* Build configuration list for PBXNativeTarget "Time Savor" */;
+			buildPhases = (
+				BA559938196C8AB900C33516 /* Sources */,
+				BA559939196C8AB900C33516 /* Frameworks */,
+				BA55993A196C8AB900C33516 /* Resources */,
+				57D1AB091996B2280014D9D0 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Time Savor";
+			productName = "Time Savor";
+			productReference = BA55993C196C8AB900C33516 /* Time Savor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BA55995C196C8ABA00C33516 /* Time SavorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BA559971196C8ABA00C33516 /* Build configuration list for PBXNativeTarget "Time SavorTests" */;
+			buildPhases = (
+				BA559959196C8ABA00C33516 /* Sources */,
+				BA55995A196C8ABA00C33516 /* Frameworks */,
+				BA55995B196C8ABA00C33516 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BA559963196C8ABA00C33516 /* PBXTargetDependency */,
+			);
+			name = "Time SavorTests";
+			productName = "Time SavorTests";
+			productReference = BA55995D196C8ABA00C33516 /* Time SavorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BA559934196C8AB900C33516 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = TimeSavor;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Time Savor";
+				TargetAttributes = {
+					BA55993B196C8AB900C33516 = {
+						DevelopmentTeam = 2BP8EDT5GW;
+					};
+					BA55995C196C8ABA00C33516 = {
+						TestTargetID = BA55993B196C8AB900C33516;
+					};
+				};
+			};
+			buildConfigurationList = BA559937196C8AB900C33516 /* Build configuration list for PBXProject "Time Savor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BA559933196C8AB900C33516;
+			productRefGroup = BA55993D196C8AB900C33516 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BA55993B196C8AB900C33516 /* Time Savor */,
+				BA55995C196C8ABA00C33516 /* Time SavorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BA55993A196C8AB900C33516 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57D1AAFF199696DC0014D9D0 /* Ravioli With Sauteed Zucchini.jpg in Resources */,
+				57D1AB00199696DC0014D9D0 /* Shrimp and Tomato Pasta.jpg in Resources */,
+				57D399A1198E880A00763B0D /* Spicy Chicken Casserole.jpg in Resources */,
+				57D399A6198E880A00763B0D /* Vegetable Gumbo.jpeg in Resources */,
+				57D3998D198E880A00763B0D /* Baked Ziti and Summer Veggies.jpg in Resources */,
+				57D1AAF9199696DC0014D9D0 /* Japanese Chicken-Scallion Rice Bowl.jpg in Resources */,
+				57D1AB01199696DC0014D9D0 /* Simple, fresh quesadillas.jpg in Resources */,
+				57D1AAF8199696DC0014D9D0 /* Golden Gazpacho with Feta.jpg in Resources */,
+				57D1AAEF199696DC0014D9D0 /* Citrus Salmon with Broccoli.jpg in Resources */,
+				BA559958196C8ABA00C33516 /* Images.xcassets in Resources */,
+				57D1AB08199696DC0014D9D0 /* Veggie Fried Rice.jpg in Resources */,
+				57D39996198E880A00763B0D /* Delicious Black Bean Burritos.jpg in Resources */,
+				57D3998F198E880A00763B0D /* Butternut Squash and Pesto Rotini.jpg in Resources */,
+				57D1AAEA199696DC0014D9D0 /* 20-minute seafood pasta.jpg in Resources */,
+				57D1AB181996B2AE0014D9D0 /* HockeySDK.xcconfig in Resources */,
+				57D1AAF2199696DC0014D9D0 /* Curry in a hurry.jpg in Resources */,
+				57D3999C198E880A00763B0D /* Ratatouille.jpg in Resources */,
+				57D399A5198E880A00763B0D /* Tofu and Veggies in Peanut Sauce.jpg in Resources */,
+				57D1AAFC199696DC0014D9D0 /* Minestrone.jpg in Resources */,
+				57D1AB02199696DC0014D9D0 /* Smoky Mushroom Stroganoff.jpg in Resources */,
+				BA8DCADA197EF40E00FF8ADF /* MasterRecipes.json in Resources */,
+				57D1AB04199696DC0014D9D0 /* Strawberry and Feta Salad.jpg in Resources */,
+				57D1AB05199696DC0014D9D0 /* Thai Red Chicken Curry.jpg in Resources */,
+				57D1AAFB199696DC0014D9D0 /* Microwave butternut squash risotto.jpg in Resources */,
+				57D1AAFE199696DC0014D9D0 /* Quick Chicken Noodle Soup.jpg in Resources */,
+				57D1AAF7199696DC0014D9D0 /* Ginger Veggie Stir-Fry.jpg in Resources */,
+				57D1AAF1199696DC0014D9D0 /* Creamy Fettuccine With Corn and Arugula.jpg in Resources */,
+				57D399A8198E880A00763B0D /* Whole-wheat Penne with Chicken and Asparagus.jpg in Resources */,
+				57D1AAFD199696DC0014D9D0 /* Pan-Searched Chicken with Tomato-Olive Relish.jpg in Resources */,
+				57D1AAEE199696DC0014D9D0 /* Chunky Bean and Chicken Chili.jpg in Resources */,
+				57D39998198E880A00763B0D /* Fettuccine with Creamy Red Pepper-Feta Sauce.jpeg in Resources */,
+				57D1AAFA199696DC0014D9D0 /* Marmalade Chicken.jpg in Resources */,
+				57D39993198E880A00763B0D /* Chicken Caprese.jpg in Resources */,
+				57D1AAF6199696DC0014D9D0 /* Garlickly summer squash and fresh corn.jpg in Resources */,
+				BA55994A196C8AB900C33516 /* InfoPlist.strings in Resources */,
+				57D3998C198E880A00763B0D /* Arugula and Pesto Pizzas.jpg in Resources */,
+				BA559953196C8AB900C33516 /* Main.storyboard in Resources */,
+				57D3998E198E880A00763B0D /* Blackened Tilapia Baja Tacos.jpg in Resources */,
+				57D1AB191996B2AE0014D9D0 /* HockeySDKResources.bundle in Resources */,
+				57D1AB07199696DC0014D9D0 /* Tuscan Pasta With Tomato-Basil Cream.jpg in Resources */,
+				57D39991198E880A00763B0D /* Chicken and Asparagus Crepes.jpeg in Resources */,
+				57D3999E198E880A00763B0D /* Roasted Zucchini Flatbread with Hummus, Arugula, Goat Cheese, and Almonds.jpeg in Resources */,
+				57D3999F198E880A00763B0D /* Southwest Chili.jpg in Resources */,
+				57D39999198E880A00763B0D /* Greek Chicken Pitas.jpg in Resources */,
+				57D3998B198E880A00763B0D /* 20-Minute Shrimp and Couscous With Yogurt-Hummus Sauce.jpeg in Resources */,
+				57D1AB03199696DC0014D9D0 /* Spaghetti With Herbs, Chilies, and Eggs.jpg in Resources */,
+				57D1AAEB199696DC0014D9D0 /* Barbeque Glazed Salmon with Green Beans and Corn.jpg in Resources */,
+				57D1AAF0199696DC0014D9D0 /* Cod With Beans, Corn, and Pesto.jpg in Resources */,
+				57D1AB06199696DC0014D9D0 /* Turkey Salad With Tomato and Avocado.jpg in Resources */,
+				57D399A7198E880A00763B0D /* Veggie Pizza.jpeg in Resources */,
+				57D39994198E880A00763B0D /* Creamy Chicken and Spinach Pasta.jpg in Resources */,
+				57D1AAF3199696DC0014D9D0 /* Easy Salmon, Black Bean, and Corn Tostadas.jpg in Resources */,
+				57D3999B198E880A00763B0D /* Light Chicken Enchiladas.jpeg in Resources */,
+				57D399A0198E880A00763B0D /* Speedy Spicy Cod.jpg in Resources */,
+				57D39995198E880A00763B0D /* Curry Chickpea Stew with Brown Rice.jpg in Resources */,
+				57D3999A198E880A00763B0D /* Lemon Salmon with Lima Beans.jpeg in Resources */,
+				57D39990198E880A00763B0D /* Caesar Salad with Chicken.jpg in Resources */,
+				57D1AAF4199696DC0014D9D0 /* Fettuccine with Mushrooms and Hazelnuts.jpg in Resources */,
+				57D39997198E880A00763B0D /* Easy Chicken Stir Fry.jpeg in Resources */,
+				57D3994C198E870300763B0D /* RecipeJSONConverter.sqlite in Resources */,
+				BA48406619849BB5001F9439 /* IngredientsSorting.txt in Resources */,
+				57D3999D198E880A00763B0D /* Red Curry Lentils.jpg in Resources */,
+				57D399A3198E880A00763B0D /* Spinach and Quinoa Salad with Toasted Cashews and Dried Cranberries.jpg in Resources */,
+				57D1AAEC199696DC0014D9D0 /* Chicken Cutlets with Tomato Saute.jpg in Resources */,
+				57D1AAED199696DC0014D9D0 /* Chicken-Peanut Chow Mein.jpg in Resources */,
+				57D399A4198E880A00763B0D /* Thai Chicken and Coconut Soup with Noodles.jpg in Resources */,
+				57D1AAF5199696DC0014D9D0 /* Fish Tostadas and Chili Lime Cream.jpg in Resources */,
+				57D399A2198E880A00763B0D /* Spinach and Onion Quesadillas.jpg in Resources */,
+				57D39992198E880A00763B0D /* Chicken and Vegetable Noodles with Peanut Sauce.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BA55995B196C8ABA00C33516 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA559969196C8ABA00C33516 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		57D1AB091996B2280014D9D0 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "FILE=\"${SRCROOT}/HockeySDK-iOS/BuildAgent\"\nif [ -f \"$FILE\" ]; then\n\"$FILE\"\nfi";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BA559938196C8AB900C33516 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA8DCAD2197AC85100FF8ADF /* ConfirmedRecipesTableViewCell.m in Sources */,
+				BA8DCAC3197A1CFD00FF8ADF /* RecipeBoxViewController.m in Sources */,
+				BA8DCAD5197AED7B00FF8ADF /* SwitchWithFavoriteViewController.m in Sources */,
+				BA8DCAC9197AC68200FF8ADF /* RecipeBoxTableViewCell.m in Sources */,
+				BA55994C196C8AB900C33516 /* main.m in Sources */,
+				BA8DCAC01979AD9500FF8ADF /* PlanTableViewCell.m in Sources */,
+				BA8DCABD1979ABBA00FF8ADF /* PlanViewController.m in Sources */,
+				57D39A091991BE1A00763B0D /* DynamicHeightTableViewCell.m in Sources */,
+				BA8DCACF197AC7B000FF8ADF /* PendingRecipeTableViewCell.m in Sources */,
+				BA48406219846984001F9439 /* InstructionTableViewCell.m in Sources */,
+				BA559976196C8B5200C33516 /* DataModel.xcdatamodeld in Sources */,
+				BA48405C19841B87001F9439 /* Recipe.m in Sources */,
+				BA559956196C8ABA00C33516 /* TimeSavorViewController.m in Sources */,
+				BA8DCAB4197903E100FF8ADF /* Plan.m in Sources */,
+				BA20C5661975D3D4006CA809 /* GroceryListViewController.m in Sources */,
+				BA48405F19841B88001F9439 /* Ingredient.m in Sources */,
+				BA559950196C8AB900C33516 /* TimeSavorAppDelegate.m in Sources */,
+				BA8DCAD8197AF3AE00FF8ADF /* PreferencesViewController.m in Sources */,
+				BA20C5691975D608006CA809 /* GroceryList.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BA559959196C8ABA00C33516 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA55996B196C8ABA00C33516 /* Time_SavorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BA559963196C8ABA00C33516 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BA55993B196C8AB900C33516 /* Time Savor */;
+			targetProxy = BA559962196C8ABA00C33516 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BA559948196C8AB900C33516 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BA559949196C8AB900C33516 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		BA559951196C8AB900C33516 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BA559952196C8AB900C33516 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BA559967196C8ABA00C33516 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BA559968196C8ABA00C33516 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BA55996C196C8ABA00C33516 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		BA55996D196C8ABA00C33516 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BA55996F196C8ABA00C33516 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/UbertestersSDK",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Time Savor/Time Savor-Prefix.pch";
+				INFOPLIST_FILE = "Time Savor/Time Savor-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		BA559970196C8ABA00C33516 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/UbertestersSDK",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Time Savor/Time Savor-Prefix.pch";
+				INFOPLIST_FILE = "Time Savor/Time Savor-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		BA559972196C8ABA00C33516 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Time Savor.app/Time Savor";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Time Savor/Time Savor-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Time SavorTests/Time SavorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		BA559973196C8ABA00C33516 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Time Savor.app/Time Savor";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Time Savor/Time Savor-Prefix.pch";
+				INFOPLIST_FILE = "Time SavorTests/Time SavorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BA559937196C8AB900C33516 /* Build configuration list for PBXProject "Time Savor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA55996C196C8ABA00C33516 /* Debug */,
+				BA55996D196C8ABA00C33516 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BA55996E196C8ABA00C33516 /* Build configuration list for PBXNativeTarget "Time Savor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA55996F196C8ABA00C33516 /* Debug */,
+				BA559970196C8ABA00C33516 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BA559971196C8ABA00C33516 /* Build configuration list for PBXNativeTarget "Time SavorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA559972196C8ABA00C33516 /* Debug */,
+				BA559973196C8ABA00C33516 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		BA559974196C8B5200C33516 /* DataModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				BA559975196C8B5200C33516 /* DataModel.xcdatamodel */,
+			);
+			currentVersion = BA559975196C8B5200C33516 /* DataModel.xcdatamodel */;
+			path = DataModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = BA559934196C8AB900C33516 /* Project object */;
+}
